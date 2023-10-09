@@ -24,7 +24,7 @@ The following book moves are *5.Nf3 Qb6 6.a3*
 ## Exchange Variation
 ![](https://www.chess.com/share/opening/default/French-Defense-Exchange-Variation)
 The following book moves are *3....ed 4.Bd3 Bd6 5.Nf3 Nf6*
-**Usually white is not willing to play this variation since it will lead to a fast and easy draw.**
+<br>**Usually white is not willing to play this variation since it will lead to a fast and easy draw.**
 
 ## See also
 - [Benoni Defence](https://www.chess.com/openings/Benoni-Defense-Modern-Variation)
