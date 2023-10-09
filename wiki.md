@@ -7,7 +7,7 @@ The French Defense is my favorite opening as black against *1.e4*. It will usual
 
 ## Winawer Variation
 ![](https://www.chess.com/share/opening/default/French-Defense-Winawer-Variation)
-The following book move is *4.e5 c5 5.a3 Bc3 6.bc Ne7*.
+The following book moves are *4.e5 c5 5.a3 Bc3 6.bc Ne7*.
 <br>The white will get doubled pawns as a weak point in exchange for the black having difficulty defending the kingside (due to the absence of dark-squared bishop).
 
 ### 7.Qg4
@@ -17,13 +17,13 @@ I prefer *7....Qa5*, followed by *c4, Bd7, Nd7-b6* to attack the white pawn at a
 
 ## Advance Variation
 ![](https://www.chess.com/share/opening/default/French-Defense-Advance-Variation-3...c5-4.c3-Nc6)
-The following book move is *5.Nf3 Qb6 6.a3*
+The following book moves are *5.Nf3 Qb6 6.a3*
 <br>Here I like to play *6....a5* to prevent white from playing *7.b4*, followed by *f6, Ne7-f5* to attack the white center
 
 
 ## Exchange Variation
 ![](https://www.chess.com/share/opening/default/French-Defense-Exchange-Variation)
-The following book move is *3....ed 4.Bd3 Bd6 5.Nf3 Nf6*
+The following book moves are *3....ed 4.Bd3 Bd6 5.Nf3 Nf6*
 **Usually white is not willing to play this variation since it will lead to a fast and easy draw.**
 
 ## See also
